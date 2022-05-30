@@ -143,11 +143,11 @@ input, button {
   display: none
 }
 
-.editMode .tasks__input {
+.tasks__edit-item .tasks__input {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .tasks__label {
+.tasks__edit-item .tasks__label {
   display: none;
 }
